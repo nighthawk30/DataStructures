@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Wit/CLionProjects/Lab4b/partb.cpp
+iostream
+-
+string
+-
+cstdlib
+-
+vector
+-
+map
+-
+

@@ -1,0 +1,3 @@
+C:/Users/Wit/CLionProjects/DataStructures/Project3_EvilHangman/cmake-build-debug/CMakeFiles/hangman.dir
+C:/Users/Wit/CLionProjects/DataStructures/Project3_EvilHangman/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Wit/CLionProjects/DataStructures/Project3_EvilHangman/cmake-build-debug/CMakeFiles/rebuild_cache.dir

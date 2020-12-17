@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\FinalDS.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\FinalDS.dir/objects.a @CMakeFiles\FinalDS.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\FinalDS.dir/objects.a -Wl,--no-whole-archive  -o FinalDS.exe -Wl,--out-implib,libFinalDS.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FinalDS.dir\linklibs.rsp

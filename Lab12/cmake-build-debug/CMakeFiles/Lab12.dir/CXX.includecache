@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Wit/CLionProjects/Lab12/analog_clock.h
+analog_clock.h
+C:/Users/Wit/CLionProjects/Lab12/analog_clock.h
+
+C:/Users/Wit/CLionProjects/Lab12/tests.cpp
+iostream
+-
+string
+-
+unix_clock.h
+C:/Users/Wit/CLionProjects/Lab12/unix_clock.h
+analog_clock.h
+C:/Users/Wit/CLionProjects/Lab12/analog_clock.h
+
+C:/Users/Wit/CLionProjects/Lab12/unix_clock.h
+string
+-
+

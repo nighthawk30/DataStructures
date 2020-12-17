@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Wit/CLionProjects/lab02/lodepng.h
+string.h
+-
+vector
+-
+string
+-
+lodepng.h
+C:/Users/Wit/CLionProjects/lab02/lodepng.h
+iostream
+-
+lodepng.h
+C:/Users/Wit/CLionProjects/lab02/lodepng.h
+
+C:/Users/Wit/CLionProjects/lab02/mondrian.cpp
+cstdlib
+-
+ctime
+-
+vector
+-
+mondrian.h
+C:/Users/Wit/CLionProjects/lab02/mondrian.h
+
+C:/Users/Wit/CLionProjects/lab02/mondrian.h
+string
+-
+picture.h
+C:/Users/Wit/CLionProjects/lab02/picture.h
+
+C:/Users/Wit/CLionProjects/lab02/picture.h
+lodepng.h
+C:/Users/Wit/CLionProjects/lab02/lodepng.h
+string
+-
+vector
+-
+
